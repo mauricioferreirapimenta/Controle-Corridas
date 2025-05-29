@@ -1,0 +1,1 @@
+Corrigido para garantir sincronização entre lógica de diagnóstico e melhores tempos.
