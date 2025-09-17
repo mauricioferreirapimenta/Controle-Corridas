@@ -4,8 +4,8 @@ import pandas as pd
 from datetime import datetime
 from io import BytesIO
 
-EXCEL_FILE = 'Corridas.xlsx'
-SHEET_NAME = 'Corridas'
+EXCEL_FILE = 'corridas.xlsx'
+SHEET_NAME = 'corridas'
 
 @st.cache_data(ttl=0)
 def carregar_dados():
